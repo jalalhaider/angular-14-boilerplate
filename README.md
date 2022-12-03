@@ -1,4 +1,4 @@
-# MyAngularApp
+# Angular 14 Boiler plate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
